@@ -1,11 +1,6 @@
 # Module 2 Homework — MCP Extension for Pi
 
-## PRs
 
-| PR | Repo | Description |
-|----|------|-------------|
-| [#3774](https://github.com/badlogic/pi-mono/pull/3774) | upstream (badlogic/pi-mono) | MCP extension + devcontainer + tests |
-| [#2](https://github.com/dillbath-ai/pi-mono-dil/pull/2) | fork (dillbath-ai/pi-mono-dil) | Same changes targeting the fork's main |
 
 ---
 
