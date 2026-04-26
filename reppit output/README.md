@@ -69,5 +69,5 @@ A pi extension that connects agent sessions to MCP servers. When pi starts a ses
 | [ex3-proposal.md](ex3-proposal.md) | Two solution proposals (SDK-based vs zero-dep) with open questions |
 | [ex4-plan.md](ex4-plan.md) | Detailed implementation plan (design doc format) |
 | [ex5-build.md](ex5-build.md) | Build findings — SDK export map quirks, vi.mock cross-directory limits, and 6 other discoveries |
-| [ex6-code review.md](ex6-code review.md) | Iterative code review output (4 rounds, 20+ action items addressed) |
+| [ex6-code review.md](ex6-coderevew.md) | Iterative code review output (4 rounds, 20+ action items addressed) |
 | [design_doc_tempalate.md](design_doc_tempalate.md) | Template used for the plan |
